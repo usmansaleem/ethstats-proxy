@@ -1,0 +1,8 @@
+{
+	debug
+    default_sni localhost
+}
+
+localhost:443
+
+reverse_proxy ethstats:3000
