@@ -1,0 +1,3 @@
+[submodule "ethstats-server"]
+	path = ethstats-server
+	url = https://github.com/goerli/ethstats-server.git
