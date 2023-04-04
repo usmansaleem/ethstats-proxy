@@ -3,6 +3,6 @@
     default_sni localhost
 }
 
-localhost:443
+localhost
 
 reverse_proxy ethstats:3000
