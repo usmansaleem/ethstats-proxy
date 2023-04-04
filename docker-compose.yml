@@ -2,7 +2,7 @@ version: "3.9"
 services:
   ethstats:
     build:
-      context: ../ethstats-server
+      context: ./ethstats-server
     ports:
       - "3000:3000"
     environment:
